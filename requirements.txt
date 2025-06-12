@@ -1,4 +1,4 @@
-guicorn
+gunicorn
 Flask
 opencv-python
 numpy
